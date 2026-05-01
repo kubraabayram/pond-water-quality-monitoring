@@ -6,7 +6,7 @@ The solution combines both **rule-based logic** and **machine learning models** 
 
 ---
 
-## 🧠 Decision Mechanism & Model Training
+## Decision Mechanism & Model Training
 
 At the core of the system, a hybrid decision-making approach is implemented.
 
@@ -24,7 +24,7 @@ After performance comparison, the **Random Forest model** was selected as the pr
 
 ---
 
-## 🚀 FastAPI Backend & System Integration
+## FastAPI Backend & System Integration
 
 A **FastAPI-based RESTful API** was developed to enable communication between the system components.
 
@@ -41,7 +41,7 @@ A **FastAPI-based RESTful API** was developed to enable communication between th
 
 ---
 
-## 📊 Results & Evaluation
+## Results & Evaluation
 
 During the training phase, models were evaluated using key performance metrics:
 
